@@ -1,5 +1,4 @@
-Olá! Me chamo keveny tenho 21 anos estou cursando analise e desenvolvimento de sistemas.
-Estou compartilhando aqui alguns projetos que eu fiz ao longo do tempo que estou estudando.
+Olá! Estou compartilhando aqui alguns projetos que eu fiz ao longo do tempo que venho estudando.
 
 <!--
 **KevenyLima/kevenylima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
