@@ -1,4 +1,4 @@
-Olá! Estou compartilhando aqui alguns projetos que eu fiz ao longo do tempo que venho estudando.
+Olá! Estou compartilhando aqui alguns projetos que eu fiz ao longo do tempo.
 
 <!--
 **KevenyLima/kevenylima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
