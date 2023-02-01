@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"height="30" width="40" />
 </div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro2585&theme=tokyonight_duo"/>
+
+
 <div> 
   <a href = "mailto:keveny02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/keveny-lima-87213b207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
